@@ -1,0 +1,3 @@
+/home/xsat/Desktop/vsc/bj/build/CMakeFiles/bj.dir
+/home/xsat/Desktop/vsc/bj/build/CMakeFiles/edit_cache.dir
+/home/xsat/Desktop/vsc/bj/build/CMakeFiles/rebuild_cache.dir

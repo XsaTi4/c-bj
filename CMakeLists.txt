@@ -15,6 +15,6 @@ else()
     -Wextra
     -Wpedantic
     -Wconversion
-    Wshadow
+    -Wshadow
     )
 endif()
